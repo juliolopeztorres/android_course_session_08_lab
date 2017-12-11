@@ -6,4 +6,11 @@
     <string name="alert_label">Alerts</string>
     <string name="information_label">Information</string>
     <string name="option_label">Option</string>
+    <string name="email_fragment_label">Your e-mail</string>
+    <string name="information_fragment_label">See more info</string>
+    <string name="dialog_email_description">Type your e-mail address in order to display it in the fragment:</string>
+    <string name="dialog_email_hint">Type your e-mail address</string>
+    <string name="dialog_email_negative_label">@android:string/cancel</string>
+    <string name="dialog_email_positive_label">@android:string/ok</string>
+    <string name="dialog_email_empty_warning">You must provide a valid e-mail address</string>
 </resources>
