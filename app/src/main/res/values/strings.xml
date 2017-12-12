@@ -13,4 +13,9 @@
     <string name="dialog_email_negative_label">@android:string/cancel</string>
     <string name="dialog_email_positive_label">@android:string/ok</string>
     <string name="dialog_email_empty_warning">You must provide a valid e-mail address</string>
+    <string name="dialog_alert_description">By checking following switch, you would turning on/off notifications</string>
+    <string name="switch_alert_description">Enable/Disable alerts</string>
+    <string name="dialog_alert_negative_label">@android:string/cancel</string>
+    <string name="dialog_alert_positive_label">@android:string/ok</string>
+    <string name="alert_label_with_format">Alerts %s</string>
 </resources>
