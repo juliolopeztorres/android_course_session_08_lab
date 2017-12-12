@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Menufy</string>
+    <string name="my_name">Julio López Torres</string>
+    <string name="contentDescriptionBackground">Background black and red image</string>
+    <string name="email_label">Email</string>
+    <string name="alert_label">Alerts</string>
+    <string name="information_label">Information</string>
+    <string name="option_label">Option</string>
+    <string name="email_fragment_label">Your e-mail</string>
+    <string name="information_fragment_label">See more info</string>
+    <string name="dialog_email_description">Type your e-mail address in order to display it in the fragment:</string>
+    <string name="dialog_email_hint">Type your e-mail address</string>
+    <string name="dialog_email_negative_label">@android:string/cancel</string>
+    <string name="dialog_email_positive_label">@android:string/ok</string>
+    <string name="dialog_email_empty_warning">You must provide a valid e-mail address</string>
+    <string name="dialog_alert_description">By checking following switch, you would turning on/off notifications</string>
+    <string name="switch_alert_description">Enable/Disable alerts</string>
+    <string name="dialog_alert_negative_label">@android:string/cancel</string>
+    <string name="dialog_alert_positive_label">@android:string/ok</string>
+    <string name="alert_label_with_format">Alerts %s</string>
+    <string name="dialog_information_neutral_label">Got it</string>
+    <string name="dialog_information_description">This alert dialog has no interaction within. It is just to show some information to the user.</string>
 </resources>
